@@ -168,21 +168,15 @@ Desktop application for <strong>daily cash closing in retail environments</stron
 <h2 align="center">📊 GitHub Stats</h2>
 
 <p align="center">
-  <a href="https://github.com/Saquero">
-    <img src="https://github-readme-stats.vercel.app/api?username=Saquero&show_icons=true&theme=radical&hide_border=true" alt="GitHub Stats" />
-  </a>
+  <img src="https://github-readme-stats.vercel.app/api?username=Saquero&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" />
 </p>
 
 <p align="center">
-  <a href="https://github.com/Saquero">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=Saquero&theme=radical&hide_border=true" alt="GitHub Streak" />
-  </a>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Saquero&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
 </p>
 
 <p align="center">
-  <a href="https://github.com/Saquero">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Saquero&layout=compact&theme=radical&hide_border=true" alt="Top Languages" />
-  </a>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Saquero&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
 </p>
 
 ---
