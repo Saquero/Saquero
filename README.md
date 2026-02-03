@@ -26,7 +26,7 @@ No demos. No toy projects.
 
 ---
 
-## <img src="assets/Franky.png" width="52" align="center" /> Tech Stack
+## <img src="assets/Franky.png" width="62" align="center" /> Tech Stack
 
 ### Backend
 - **Node.js**, **Express**
@@ -51,7 +51,7 @@ No demos. No toy projects.
 
 ---
 
-## <img src="assets/thousand-sunny.png" width="52" align="center" /> Projects
+## <img src="assets/thousand-sunny.png" width="62" align="center" /> Projects
 
 ### 🟢 Dónde Comemos Hoy
 Backend API and dashboard for a **family-focused restaurant discovery platform**.
@@ -77,7 +77,7 @@ Desktop application for **daily cash closing in retail environments**.
 
 ---
 
-## <img src="assets/zoro.png" width="52" align="center" /> What I do well
+## <img src="assets/zoro.png" width="72" align="center" /> What I do well
 
 - Translate **real needs** into technical solutions
 - Design **clear and scalable APIs**
@@ -86,7 +86,7 @@ Desktop application for **daily cash closing in retail environments**.
 
 ---
 
-## <img src="assets/Robin.png" width="52" align="center" /> Now
+## <img src="assets/Robin.png" width="62" align="center" /> Now
 
 - Creating backend-focused mini projects aligned with market needs
 - Improving architecture, documentation and code quality
