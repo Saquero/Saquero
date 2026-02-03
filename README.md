@@ -1,10 +1,13 @@
 <h1 align="center">👋 Manu Martínez Saquero</h1>
-
 <p align="center">
-  <strong>Software Developer · Backend & API Development</strong><br/>
-  Node.js · Prisma · PostgreSQL · React
+  <strong>Software Developer · Backend & API Development</strong><br/><br/>
+  
+  <img src="https://img.shields.io/badge/Backend-red?style=for-the-badge" />
+<img src="https://img.shields.io/badge/Developer-green?style=for-the-badge" />
+<img src="https://img.shields.io/badge/Node.js-blue?style=for-the-badge&logo=node.js&logoColor=white" />
+<img src="https://img.shields.io/badge/PostgreSQL-purple?style=for-the-badge&logo=postgresql&logoColor=white" />
+<img src="https://img.shields.io/badge/Prisma-black?style=for-the-badge&logo=prisma&logoColor=white" />
 </p>
-
 <p align="center">
   <i>Building backend solutions for real-world problems</i>
   <img src="assets/luffy-hat.png" width="36" style="vertical-align:middle;" alt="Luffy hat" />
@@ -12,7 +15,7 @@
 
 ---
 
-## <img src="assets/luffy-core.png" width="52" align="center" /> About me
+## <img src="assets/luffy-core.png" width="62" align="center" /> About me
 
 I design and build **clean, maintainable backend systems**, APIs and internal tools.  
 I work full-stack when needed, but my focus is always **backend, data and architecture**.
@@ -26,7 +29,7 @@ No demos. No toy projects.
 
 ---
 
-## <img src="assets/Franky.png" width="62" align="center" /> Tech Stack
+## <img src="assets/Franky.png" width="72" align="center" /> Tech Stack
 
 ### Backend
 - **Node.js**, **Express**
@@ -51,7 +54,7 @@ No demos. No toy projects.
 
 ---
 
-## <img src="assets/thousand-sunny.png" width="62" align="center" /> Projects
+## <img src="assets/thousand-sunny.png" width="72" align="center" /> Projects
 
 ### 🟢 Dónde Comemos Hoy
 Backend API and dashboard for a **family-focused restaurant discovery platform**.
@@ -96,7 +99,7 @@ Desktop application for **daily cash closing in retail environments**.
 
 
 
-📬 **Let’s connect!**
+## <img src="assets/denden-mushi.png" width="72" align="center" />Let’s connect!
 
 - LinkedIn: https://linkedin.com/in/manusaquero  
 - GitHub: https://github.com/Saquero  
