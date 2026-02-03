@@ -94,7 +94,11 @@ Desktop application for **daily cash closing in retail environments**.
 
 ---
 
-## 📫 Contact
 
-- LinkedIn → https://linkedin.com/in/manusaquero  
-- GitHub → https://github.com/Saquero
+
+📬 **Let’s connect!**
+
+- LinkedIn: https://linkedin.com/in/manusaquero  
+- GitHub: https://github.com/Saquero  
+- Email: manusaquero@gmail.com
+
