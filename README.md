@@ -13,6 +13,10 @@
   <img src="assets/luffy-hat.png" width="36" style="vertical-align:middle;" alt="Luffy hat" />
 </p>
 
+<p align="center">
+  📍 Spain (for now) · 🌍 Remote-first mindset · ❄️ Norra Sverige- Snart
+</p>
+
 ---
 
 <h2 align="center"><img src="assets/luffy-core.png" width="62" align="center" /> About me</h2>
@@ -104,11 +108,15 @@ Backend API and dashboard for a <strong>family-focused restaurant discovery plat
 </p>
 
 <p align="center">
-✓ Production-oriented Node.js API<br/>
-✓ Prisma + PostgreSQL<br/>
-✓ JWT authentication<br/>
-✓ Fully documented with Swagger<br/>
-✓ Designed as a reusable product backend
+  <img src="https://img.shields.io/badge/Node.js-339933?style=flat&logo=node.js&logoColor=white" />
+  <img src="https://img.shields.io/badge/Express-000000?style=flat&logo=express&logoColor=white" />
+  <img src="https://img.shields.io/badge/PostgreSQL-316192?style=flat&logo=postgresql&logoColor=white" />
+  <img src="https://img.shields.io/badge/Prisma-2D3748?style=flat&logo=prisma&logoColor=white" />
+  <img src="https://img.shields.io/badge/JWT-000000?style=flat&logo=jsonwebtokens&logoColor=white" />
+</p>
+
+<p align="center">
+A production-ready REST API that helps parents find family-friendly restaurants. Features advanced filtering (playground nearby, high chairs, kids menu), full JWT authentication, and comprehensive Swagger documentation. Built with scalability and reusability in mind—ready to be integrated into any frontend application.
 </p>
 
 <p align="center">
@@ -125,9 +133,13 @@ Desktop application for <strong>daily cash closing in retail environments</stron
 </p>
 
 <p align="center">
-✓ Electron<br/>
-✓ React + TypeScript<br/>
-✓ Built for real usage, not demos
+  <img src="https://img.shields.io/badge/Electron-47848F?style=flat&logo=electron&logoColor=white" />
+  <img src="https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=black" />
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white" />
+</p>
+
+<p align="center">
+A cross-platform desktop app designed for retail workers to streamline end-of-day cash reconciliation. Calculates discrepancies, generates closing reports, and maintains historical records. Built from real-world retail experience—solving actual pain points, not hypothetical problems.
 </p>
 
 <p align="center">
@@ -167,12 +179,15 @@ Desktop application for <strong>daily cash closing in retail environments</stron
 
 <h2 align="center">📊 GitHub Stats</h2>
 
+
+
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Saquero&show_icons=true" alt="GitHub Stats" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Saquero&theme=radical" alt="GitHub Profile Summary" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Saquero&layout=compact" alt="Top Languages" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Saquero&theme=radical" alt="Top Languages" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Saquero&theme=radical" alt="Most Used Languages" />
 </p>
 
 ---
