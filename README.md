@@ -1,12 +1,16 @@
 <h1 align="center">👋 Manu Martínez Saquero</h1>
 <p align="center">
-  <strong>Software Developer · Backend & API Development</strong><br/><br/>
+  <strong>Software Developer · Backend, Full Stack & System Design </strong><br/><br/>
   
   <img src="https://img.shields.io/badge/Backend-red?style=for-the-badge" />
   <img src="https://img.shields.io/badge/Developer-green?style=for-the-badge" />
   <img src="https://img.shields.io/badge/Node.js-blue?style=for-the-badge&logo=node.js&logoColor=white" />
   <img src="https://img.shields.io/badge/PostgreSQL-purple?style=for-the-badge&logo=postgresql&logoColor=white" />
   <img src="https://img.shields.io/badge/Prisma-black?style=for-the-badge&logo=prisma&logoColor=white" />
+  <img src="https://img.shields.io/badge/DDD-02569B?style=for-the-badge" />
+<img src="https://img.shields.io/badge/Clean_Architecture-6DB33F?style=for-the-badge" />
+<img src="https://img.shields.io/badge/Hexagonal-FF6F00?style=for-the-badge" />
+<img src="https://img.shields.io/badge/System_Design-black?style=for-the-badge" />
 </p>
 <p align="center">
   <i>Building backend solutions for real-world problems</i>
@@ -23,8 +27,15 @@
 
 <p align="center">
 I design and build <strong>clean, maintainable backend systems</strong>, APIs and internal tools.<br/>
-I work full-stack when needed, but my focus is always <strong>backend, data and architecture</strong>.
+I build systems end-to-end when needed, but my strength is designing 
+<strong>scalable architectures, APIs and real-world products</strong>..
 </p>
+
+<p align="center">
+<strong>I don't build features — I build systems that solve real problems.</strong>
+</p>
+
+---
 
 <h3 align="center">What drives me</h3>
 
@@ -45,6 +56,18 @@ I work full-stack when needed, but my focus is always <strong>backend, data and 
 
 <table align="center">
 <tr>
+<td width="25%" valign="top">
+
+<h3 align="center">Architecture</h3>
+<p align="center">
+Clean Architecture<br/>
+DDD<br/>
+Hexagonal (Ports & Adapters)<br/>
+Domain Events<br/>
+System Design
+</p>
+
+</td>
 <td width="25%" valign="top">
 
 <h3 align="center">Backend</h3>
@@ -116,7 +139,20 @@ Backend API and dashboard for a <strong>family-focused restaurant discovery plat
 </p>
 
 <p align="center">
-A production-ready REST API that helps parents find family-friendly restaurants. Features advanced filtering (playground nearby, high chairs, kids menu), full JWT authentication, and comprehensive Swagger documentation. Built with scalability and reusability in mind—ready to be integrated into any frontend application.
+A <strong>real full-stack product</strong> built from a real-life problem: helping families find restaurants that actually work with kids.
+</p>
+
+<p align="center">
+✔ Backend API (Node.js + Prisma + PostgreSQL)<br/>
+✔ Admin Dashboard (React)<br/>
+✔ Public App with UX focused on families<br/>
+✔ Suggestion + moderation system<br/>
+✔ Favorites & ranking system<br/>
+✔ Map & geolocation integration
+</p>
+
+<p align="center">
+<strong>Not just an API — a complete product.</strong>
 </p>
 
 <p align="center">
@@ -146,12 +182,63 @@ A cross-platform desktop app designed for retail workers to streamline end-of-da
 👉 <a href="https://github.com/Saquero/retail-cash-manager-cierres">View Project</a>
 </p>
 
+
 </td>
 </tr>
+
 </table>
 
 ---
+<table align="center">
+<tr>
+<td width="50%" valign="top">
 
+<h3 align="center">🟢 Cloud Reconciliation Engine</h3>
+
+<p align="center">
+DDD-based system designed to detect inconsistencies between internal systems and external providers.
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/C%23-239120?style=flat&logo=c-sharp&logoColor=white" />
+  <img src="https://img.shields.io/badge/.NET-512BD4?style=flat&logo=dotnet&logoColor=white" />
+  <img src="https://img.shields.io/badge/DDD-blue?style=flat" />
+  <img src="https://img.shields.io/badge/Hexagonal-orange?style=flat" />
+</p>
+
+<p align="center">
+Built with Clean Architecture, Domain Events and Ports & Adapters. Models real SaaS billing scenarios instead of simple CRUD.
+</p>
+
+
+<p align="center">
+👉 <a href="https://github.com/Saquero/cloud-reconciliation-engine-api">View Project</a>
+</p>
+
+
+<td width="50%" valign="top">
+<h3 align="center">🟢 SaaS Admin Platform</h3>
+
+<p align="center">
+Full-stack platform for managing users, subscriptions and billing lifecycle.
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/C%23-239120?style=flat&logo=c-sharp&logoColor=white" />
+  <img src="https://img.shields.io/badge/ASP.NET_Core-5C2D91?style=flat" />
+  <img src="https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=black" />
+</p>
+
+<p align="center">
+Role-based authentication, subscription logic, lifecycle management and admin dashboard.
+</p>
+
+</td>
+</tr>
+
+</table>
+
+---
 <h2 align="center"><img src="assets/zoro.png" width="72" align="center" /> Core Strengths</h2>
 
 <p align="center">
@@ -207,5 +294,5 @@ A cross-platform desktop app designed for retail workers to streamline end-of-da
 </p>
 
 <p align="center">
-  <i>Open to backend development opportunities and technical collaborations</i>
+  <i>Open to backend, full-stack and system design opportunities</i>
 </p>
