@@ -18,7 +18,7 @@
 </p>
 
 <p align="center">
-  📍 Spain (for now) · 🌍 Remote-first mindset · ❄️ Norra Sverige- Snart
+🌍 Remote-first mindset · ❄️ Norra Sverige- Töre 
 </p>
 
 ---
